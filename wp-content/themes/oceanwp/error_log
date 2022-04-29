@@ -1,0 +1,12 @@
+[15-Feb-2021 07:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/index.php on line 15
+[23-May-2021 03:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/404.php on line 9
+[23-May-2021 09:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cp496355/public_html/blissinterthai.co.th/wp-content/themes/oceanwp/404.php on line 9

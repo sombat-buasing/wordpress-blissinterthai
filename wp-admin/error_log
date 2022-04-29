@@ -1,0 +1,16 @@
+[16-Mar-2020 01:03:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3920
+[16-Mar-2020 01:03:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3920
+[28-Mar-2020 03:36:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3866
+[28-Mar-2020 03:45:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3920
+[28-Mar-2020 04:10:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3920
+[28-Mar-2020 04:17:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-includes/functions.php on line 3920
+[04-Apr-2020 09:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:1173
+Stack trace:
+#0 /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(207): WC_Product_Data_Store_CPT->create_all_product_variations(Object(WC_Product_Variable), 50)
+#1 /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(749): WC_Data_Store->__call('create_all_prod...', Array)
+#2 /home/cp496355/public_html/blissinterthai.co.th/wp-includes/class-wp-hook.php(287): WC_AJAX::link_all_variations('')
+#3 /home/cp496355/public_html/blissinterthai.co.th/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/cp496355/public_html/blissinterthai.co.th/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/cp496355/public_html/blissinterthai.co.th/wp-admin/admin-ajax.php(1 in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php on line 1173
+[26-Aug-2021 23:36:44 UTC] PHP Fatal error:  Out of memory (allocated 42467328) (tried to allocate 65536 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-checkout-details.php on line 230
+[26-Aug-2021 23:36:46 UTC] PHP Fatal error:  Out of memory (allocated 46661632) (tried to allocate 8192 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/ti-woocommerce-wishlist/includes/form.helper.php on line 501

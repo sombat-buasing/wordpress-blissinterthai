@@ -1,0 +1,6 @@
+2022-04-28T15:50:41+00:00 CRITICAL Out of memory (allocated 42467328) (tried to allocate 16384 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/SchedulerTraits.php on line 252
+
+2022-04-28T15:50:41+00:00 CRITICAL Out of memory (allocated 42467328) (tried to allocate 16384 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/SchedulerTraits.php on line 252
+
+2022-04-28T15:50:47+00:00 CRITICAL Out of memory (allocated 61865984) (tried to allocate 32768 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/includes/types/fa.php on line 792
+

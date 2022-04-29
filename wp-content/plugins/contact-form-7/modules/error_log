@@ -1,0 +1,4 @@
+[13-Oct-2020 16:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/contact-form-7/modules/file.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/contact-form-7/modules/file.php on line 8

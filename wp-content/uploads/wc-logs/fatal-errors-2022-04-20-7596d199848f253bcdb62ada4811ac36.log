@@ -1,0 +1,4 @@
+2022-04-20T03:28:15+00:00 CRITICAL Out of memory (allocated 42467328) (tried to allocate 16384 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/SchedulerTraits.php on line 252
+
+2022-04-20T03:28:15+00:00 CRITICAL Out of memory (allocated 42467328) (tried to allocate 16384 bytes) in /home/cp496355/public_html/blissinterthai.co.th/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/SchedulerTraits.php on line 252
+
